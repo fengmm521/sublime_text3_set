@@ -1,18 +1,24 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"/Users/mage/Library/Application Support/Sublime Text 3/Packages/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"ColorPicker",
+		"Emmet",
 		"FileDiffs",
 		"Jedi - Python autocompletion",
+		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"SideBarEnhancements",
-		"SublimeTmpl"
-	],
-	"channels": [
-        "/Users/mage/Library/Application Support/Sublime Text 3/Packages/channel_v3.json"
-    ]
+		"SublimeTmpl",
+		"Terminal"
+	]
 }
