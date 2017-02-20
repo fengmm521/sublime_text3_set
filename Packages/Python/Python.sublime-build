@@ -1,0 +1,6 @@
+{
+"cmd": ["/usr/bin/python", "-u", "$file"],
+"path":"C:/Python27",
+"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+"selector": "source.python"
+}

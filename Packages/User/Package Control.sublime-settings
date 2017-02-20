@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"FileDiffs",
+		"Jedi - Python autocompletion",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeTmpl"
+	],
+	"channels": [
+        "/Users/mage/Library/Application Support/Sublime Text 3/Packages/channel_v3.json"
+    ]
+}
