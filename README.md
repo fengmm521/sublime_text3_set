@@ -2,6 +2,8 @@
 
 sublime text 3的设置,有python和markdown编辑工具,以及channel_v3.json文件
 
+加入erlang,ColorPicker,Terminal和Emmet插件.
+
 channel_v3.json文件从官网下载:
 
 https://packagecontrol.io/channel_v3.json
